@@ -3,6 +3,11 @@ a spider for pixiv
 
 I will try my best to show the details
 
-functions:
+**befor using**
+
+run `pip install -r requestment.txt`
+
+**functions:**
+
 - [x] download illustrations with pid
 - [x] get all pids of an illustrator 
