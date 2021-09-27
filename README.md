@@ -5,7 +5,7 @@ I will try my best to show the details
 
 **befor using**
 
-run `pip install -r requestment.txt`
+run `pip install -r requirements.txt`
 
 **functions:**
 
