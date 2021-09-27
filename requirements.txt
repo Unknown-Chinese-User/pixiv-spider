@@ -1,0 +1,6 @@
+pillow
+urllib
+requests
+bs4
+json
+selenium
